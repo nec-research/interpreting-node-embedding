@@ -37,7 +37,7 @@ The python file `utils.py` contains paths, hyperparameters and functions needed 
 **Output**
 - `beta.pkl`: the file stores the $`\beta`$ matrix. This matrix will be used for generating textual explanations for the considered nodes.
 - `z_users.pkl`: the file stores $`\theta_{i, k}`$, i.e. the probabilities of user $i$ to belong to cluster $k$. For all users and user clusters.
-- `z_prods.pkl`: the file stores $\theta_{j, \ell}$, i.e. the probabilities of product $j$ to belong to cluster $\ell$. For all products and product clusters.
+- `z_prods.pkl`: the file stores $`\theta_{j, \ell}`$, i.e. the probabilities of product $j$ to belong to cluster $\ell$. For all products and product clusters.
 - `mse_evaluation.csv`: the file contains the train and test mean squared error (MSE) values for each evaluated epoch.
 - `nll_evaluation.csv`: the file contains the train and test negative log-likelihood (NLL) values for each evaluated epoch.
 
