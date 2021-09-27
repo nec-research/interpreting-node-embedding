@@ -2,7 +2,7 @@
 
 This repository contains code for the paper [Interpreting Node Embedding with Text-labeled Graphs](https://ieeexplore.ieee.org/document/9533692) (Serra, Xu, Lawrence, Niepert, Tino & Yao, IJCNN 2021).
 
-For each text-labeled graphs, the code contains all the necessary steps to reproduce the experiments. The scripts are implemented with Python 2.7, and have been tested with Linux OS.
+For each dataset, the code contains all the necessary steps to reproduce the experiments. The scripts are implemented with Python 2.7, and have been tested with Linux OS.
 
 
 After data preparation and subsequent vocabulary selection, our software comprises two major parts:
